@@ -1,7 +1,7 @@
 {
       "name": "spammerbots",
-      "description": "TELEGRAM FASTEST SPAMMERBOTS, Please give it a star  🥺  🥺  🥺 ",
-      "logo": "https://telegra.ph/file/0dbf23f76e6c77d037b42.jpg",
+      "description": "Telegrams Fastest Multispam Bot Please Give It A Star  🥺  🥺  🥺 ",
+      "logo": "https://telegra.ph/file/119ec1b3bad4455c7e7be.jpg",
       "keywords": [
          "telegram",
          "Spam-Bot",
@@ -9,7 +9,7 @@
          "Telethon",
          "Gladiators"
       ],   
-   "repository": "https://t.me/Gladiators_Support",
+   "repository": "https://t.me/TheUnravelArmy",
    "addons": [
       {
          "options": {
@@ -36,7 +36,7 @@
       },
       "OWNER_NAME": {
          "description": "Owners name to be displayed in alive command.",
-         "value": "@Gladiators_Projects",
+         "value": "@TheUnravelArmy",
          "required": true
       },
       "OWNER_ID": {
@@ -57,12 +57,12 @@
       "SUDO_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Gladiators support then keep the current ID's here at they are and add yours.",
          "required": true,
-         "value": "1860999973"
+         "value": "1693752959"
       },
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Gladiators support then keep the current ID's here at they are and add yours.",
          "required": true,
-         "value": "1860999973"
+         "value": "1693752959"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -75,7 +75,7 @@
       },
       "ALIVE_MEDIA": {
          "description": "Telegraph link of pic/gif/video to be displayed in alive command.",
-         "value": "https://telegra.ph/file/ec3c057fcba5594151601.jpg",
+         "value": "https://telegra.ph/file/119ec1b3bad4455c7e7be.jpg",
          "required": true
       },
       "String_Session01": {
