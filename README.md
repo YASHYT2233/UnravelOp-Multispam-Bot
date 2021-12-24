@@ -18,7 +18,7 @@
 ### 🎆Dᴇᴘʟᴏʏ Tᴏ Hᴇʀᴏᴋᴜ
   
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=
-https://git.heroku.com/unravel-multispam-bot.git)
+(https://heroku.com/deploy?template= https://git.heroku.com/unravel-multispam-bot.gitt)
 
 
 ### 🧿Make String From Here!!!
