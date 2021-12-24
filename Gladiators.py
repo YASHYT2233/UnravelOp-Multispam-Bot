@@ -32,8 +32,8 @@ buttons = [
         (Button.url("Sᴜᴘᴘᴏʀᴛ", url="https://t.me/TheUnravelArmy"))
     ],
     [
-        (Button.url("Rᴇᴘᴏ", url="https://github.com/Gladiators-Projects/spammerbots")),
-        (Button.url("Tᴜᴛᴏʀɪᴀʟ", url="https://t.me/Gladiators_Projects/36"))
+        (Button.url("Rᴇᴘᴏ", url="https://github.com/YASHYT2233/spammerbots")),
+        (Button.url("Tᴜᴛᴏʀɪᴀʟ", url="https://t.me/TheUnravelArmy/36"))
     ]
 ]
 
@@ -110,7 +110,7 @@ Bot70 = ''
 
 
 
-async def gladiators_bots():
+async def Unravel Bots():
     global Bot1
     global Bot2
     global Bot3
@@ -186,7 +186,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 01!")
             await Bot1.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot1(functions.channels.JoinChannelRequest(channel=mat))
             await Bot1(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
             await Bot1(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
@@ -212,7 +212,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 02!")
             await Bot2.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot2(functions.channels.JoinChannelRequest(channel=mat))
             await Bot2(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot2(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -238,7 +238,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 03!")
             await Bot3.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot3(functions.channels.JoinChannelRequest(channel=mat))
             await Bot3(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot3(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -264,7 +264,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 04!")
             await Bot4.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot4(functions.channels.JoinChannelRequest(channel=mat))
             await Bot4(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot4(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -290,7 +290,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 05!")
             await Bot5.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot5(functions.channels.JoinChannelRequest(channel=mat))
             await Bot5(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot5(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -316,7 +316,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 06!")
             await Bot6.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot6(functions.channels.JoinChannelRequest(channel=mat))
             await Bot6(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot6(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -342,7 +342,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 07!")
             await Bot7.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot7(functions.channels.JoinChannelRequest(channel=mat))
             await Bot7(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot7(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -368,7 +368,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 08!")
             await Bot8.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot8(functions.channels.JoinChannelRequest(channel=mat))
             await Bot8(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot8(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -394,7 +394,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 09!")
             await Bot9.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot9(functions.channels.JoinChannelRequest(channel=mat))
             await Bot9(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot9(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -420,7 +420,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 10!")
             await Bot10.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot10(functions.channels.JoinChannelRequest(channel=mat))
             await Bot10(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot10(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -446,7 +446,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 11!")
             await Bot11.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot11(functions.channels.JoinChannelRequest(channel=mat))
             await Bot11(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot11(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -472,7 +472,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 12!")
             await Bot12.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot12(functions.channels.JoinChannelRequest(channel=mat))
             await Bot12(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot12(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -498,7 +498,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 13!")
             await Bot13.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot13(functions.channels.JoinChannelRequest(channel=mat))
             await Bot13(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot13(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -524,7 +524,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 14!")
             await Bot14.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot14(functions.channels.JoinChannelRequest(channel=mat))
             await Bot14(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot14(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -550,7 +550,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 15!")
             await Bot15.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot15(functions.channels.JoinChannelRequest(channel=mat))
             await Bot15(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot15(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -576,7 +576,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 16!")
             await Bot16.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot16(functions.channels.JoinChannelRequest(channel=mat))
             await Bot16(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot16(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -602,7 +602,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 17!")
             await Bot17.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot17(functions.channels.JoinChannelRequest(channel=mat))
             await Bot17(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot17(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -628,7 +628,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 18!")
             await Bot18.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot18(functions.channels.JoinChannelRequest(channel=mat))
             await Bot18(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot18(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -654,7 +654,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 19!")
             await Bot19.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot19(functions.channels.JoinChannelRequest(channel=mat))
             await Bot19(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot19(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -680,7 +680,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 20!")
             await Bot20.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot20(functions.channels.JoinChannelRequest(channel=mat))
             await Bot20(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot20(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -706,7 +706,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 21!")
             await Bot21.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot21(functions.channels.JoinChannelRequest(channel=mat))
             await Bot21(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot21(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -732,7 +732,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 22!")
             await Bot22.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot22(functions.channels.JoinChannelRequest(channel=mat))
             await Bot22(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot22(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -758,7 +758,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 23!")
             await Bot23.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot23(functions.channels.JoinChannelRequest(channel=mat))
             await Bot23(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot23(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -784,7 +784,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 24!")
             await Bot24.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot24(functions.channels.JoinChannelRequest(channel=mat))
             await Bot24(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot24(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -810,7 +810,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 25!")
             await Bot25.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot25(functions.channels.JoinChannelRequest(channel=mat))
             await Bot25(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot25(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -836,7 +836,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 26!")
             await Bot26.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot26(functions.channels.JoinChannelRequest(channel=mat))
             await Bot26(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot26(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -862,7 +862,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 27!")
             await Bot27.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot27(functions.channels.JoinChannelRequest(channel=mat))
             await Bot27(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot27(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -888,7 +888,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 28!")
             await Bot28.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot28(functions.channels.JoinChannelRequest(channel=mat))
             await Bot28(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot28(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -914,7 +914,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 29!")
             await Bot29.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot29(functions.channels.JoinChannelRequest(channel=mat))
             await Bot29(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot29(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -940,7 +940,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 30!")
             await Bot30.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot30(functions.channels.JoinChannelRequest(channel=mat))
             await Bot30(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot30(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -966,7 +966,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 31!")
             await Bot31.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot31(functions.channels.JoinChannelRequest(channel=mat))
             await Bot31(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot31(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -992,7 +992,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 32!")
             await Bot32.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot32(functions.channels.JoinChannelRequest(channel=mat))
             await Bot32(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot32(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1018,7 +1018,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 33!")
             await Bot33.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot33(functions.channels.JoinChannelRequest(channel=mat))
             await Bot33(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot33(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1044,7 +1044,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 34!")
             await Bot34.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot34(functions.channels.JoinChannelRequest(channel=mat))
             await Bot34(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot34(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1070,7 +1070,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 35!")
             await Bot35.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot35(functions.channels.JoinChannelRequest(channel=mat))
             await Bot35(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot35(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1096,7 +1096,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 36!")
             await Bot36.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot36(functions.channels.JoinChannelRequest(channel=mat))
             await Bot36(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot36(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1122,7 +1122,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 37!")
             await Bot37.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot37(functions.channels.JoinChannelRequest(channel=mat))
             await Bot37(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot37(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1148,7 +1148,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 38!")
             await Bot38.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot38(functions.channels.JoinChannelRequest(channel=mat))
             await Bot38(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot38(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1174,7 +1174,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 39!")
             await Bot39.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot39(functions.channels.JoinChannelRequest(channel=mat))
             await Bot39(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot39(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1200,7 +1200,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 40!")
             await Bot40.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot40(functions.channels.JoinChannelRequest(channel=mat))
             await Bot40(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot40(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1225,7 +1225,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 41!")
             await Bot41.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot41(functions.channels.JoinChannelRequest(channel=mat))
             await Bot41(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot41(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1251,7 +1251,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 42!")
             await Bot42.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot42(functions.channels.JoinChannelRequest(channel=mat))
             await Bot42(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot42(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1277,7 +1277,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 43!")
             await Bot43.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot43(functions.channels.JoinChannelRequest(channel=mat))
             await Bot43(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot43(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1303,7 +1303,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 44!")
             await Bot44.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot44(functions.channels.JoinChannelRequest(channel=mat))
             await Bot44(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot44(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1329,7 +1329,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 45!")
             await Bot45.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot45(functions.channels.JoinChannelRequest(channel=mat))
             await Bot45(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot45(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1355,7 +1355,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 46!")
             await Bot46.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot46(functions.channels.JoinChannelRequest(channel=mat))
             await Bot46(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot46(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1381,7 +1381,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 47!")
             await Bot47.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot47(functions.channels.JoinChannelRequest(channel=mat))
             await Bot47(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot47(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1407,7 +1407,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 48!")
             await Bot48.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot48(functions.channels.JoinChannelRequest(channel=mat))
             await Bot48(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot48(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1433,7 +1433,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 49!")
             await Bot49.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot49(functions.channels.JoinChannelRequest(channel=mat))
             await Bot49(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot49(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1459,7 +1459,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 50!")
             await Bot50.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot50(functions.channels.JoinChannelRequest(channel=mat))
             await Bot50(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot50(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1484,7 +1484,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 51!")
             await Bot51.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot51(functions.channels.JoinChannelRequest(channel=mat))
             await Bot51(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot51(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1510,7 +1510,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 52!")
             await Bot52.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot52(functions.channels.JoinChannelRequest(channel=mat))
             await Bot52(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot52(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1536,7 +1536,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 53!")
             await Bot53.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot53(functions.channels.JoinChannelRequest(channel=mat))
             await Bot53(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot53(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1562,7 +1562,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 54!")
             await Bot54.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot54(functions.channels.JoinChannelRequest(channel=mat))
             await Bot54(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot54(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1588,7 +1588,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 55!")
             await Bot55.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot55(functions.channels.JoinChannelRequest(channel=mat))
             await Bot55(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot55(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1614,7 +1614,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 56!")
             await Bot56.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot56(functions.channels.JoinChannelRequest(channel=mat))
             await Bot56(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot56(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1640,7 +1640,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 57!")
             await Bot57.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot57(functions.channels.JoinChannelRequest(channel=mat))
             await Bot57(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot57(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1666,7 +1666,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 58!")
             await Bot58.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot58(functions.channels.JoinChannelRequest(channel=mat))
             await Bot58(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot58(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1692,7 +1692,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 59!")
             await Bot59.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot59(functions.channels.JoinChannelRequest(channel=mat))
             await Bot59(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot59(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1718,7 +1718,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 60!")
             await Bot60.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot60(functions.channels.JoinChannelRequest(channel=mat))
             await Bot60(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot60(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1743,7 +1743,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 61!")
             await Bot61.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot61(functions.channels.JoinChannelRequest(channel=mat))
             await Bot61(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot61(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1769,7 +1769,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 62!")
             await Bot62.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot62(functions.channels.JoinChannelRequest(channel=mat))
             await Bot62(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot62(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1795,7 +1795,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 63!")
             await Bot63.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot63(functions.channels.JoinChannelRequest(channel=mat))
             await Bot63(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot63(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1821,7 +1821,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 64!")
             await Bot64.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot64(functions.channels.JoinChannelRequest(channel=mat))
             await Bot64(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot64(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1847,7 +1847,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 65!")
             await Bot65.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot65(functions.channels.JoinChannelRequest(channel=mat))
             await Bot65(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot65(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1873,7 +1873,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 66!")
             await Bot66.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot66(functions.channels.JoinChannelRequest(channel=mat))
             await Bot66(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot66(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1899,7 +1899,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 67!")
             await Bot67.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot67(functions.channels.JoinChannelRequest(channel=mat))
             await Bot67(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot67(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1925,7 +1925,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 68!")
             await Bot68.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot68(functions.channels.JoinChannelRequest(channel=mat))
             await Bot68(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot68(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1951,7 +1951,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 69!")
             await Bot69.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot69(functions.channels.JoinChannelRequest(channel=mat))
             await Bot69(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot69(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -1977,7 +1977,7 @@ async def gladiators_bots():
         try:
             print("Got String Session 70!")
             await Bot70.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/TheUnravelArmy"
             await Bot70(functions.channels.JoinChannelRequest(channel=mat))
             await Bot70(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot70(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
@@ -2000,7 +2000,7 @@ async def gladiators_bots():
 
 
 loop = asyncio.get_event_loop()
-loop.run_until_complete(gladiators_bots())
+loop.run_until_complete(Unravel Bots())
 
 
 
