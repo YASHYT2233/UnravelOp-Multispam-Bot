@@ -24,12 +24,12 @@ from dossier import HNDLR as hn
 from worker.verses import replies, curses
 from helpmenu import spam_menu, curse_menu, sudo_menu, dev_menu, acc_menu, help_menu, alive_temxt, glad_logo, start_caption, start_caption1, devusage, sudousage, spamusage, accusage
 
-glad_logo = "https://telegra.ph/file/ec3c057fcba5594151601.jpg"
+glad_logo = "https://telegra.ph/file/119ec1b3bad4455c7e7be.jpg"
 
 buttons = [
     [
-        (Button.url("Cʜᴀɴɴᴇʟ", url="https://t.me/Gladiators_Projects")),
-        (Button.url("Sᴜᴘᴘᴏʀᴛ", url="https://t.me/Gladiators_Support"))
+        (Button.url("Cʜᴀɴɴᴇʟ", url="https://t.me/TheUnravelArmy")),
+        (Button.url("Sᴜᴘᴘᴏʀᴛ", url="https://t.me/TheUnravelArmy"))
     ],
     [
         (Button.url("Rᴇᴘᴏ", url="https://github.com/Gladiators-Projects/spammerbots")),
@@ -5068,18 +5068,13 @@ Wᴀɪᴛ ғᴏʀ ᴀ ᴡʜɪʟᴇ ᴛᴏ ᴜsᴇ ɪᴛ ᴀɢᴀɪɴ.
 ##########################################################################################################################
 
 gladtext = """
-  ________.__              .___.__        __                       
- /  _____/|  | _____     __| _/|__|____ _/  |_  ___________  ______
-/   \  ___|  | \__  \   / __ | |  \__  \\   __\/  _ \_  __ \/  ___/
-\    \_\  \  |__/ __ \_/ /_/ | |  |/ __ \|  | (  <_> )  | \/\___ \ 
- \______  /____(____  /\____ | |__(____  /__|  \____/|__|  /____  >
-        \/          \/      \/         \/                       \/ 
+TEAM UNRAVEL OP
 """
 print(gladtext)
 print("")
 print("")
 print("Rooted successfully...")
-print("Starting Gladiators Spammerbots...")
+print("Starting Unravel Spambot..")
 print("Started....")
 if len(sys.argv) not in (1, 3, 4):
     try:
