@@ -188,8 +188,8 @@ async def Unravel Bots():
             await Bot1.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot1(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot1(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
-            await Bot1(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
+            await Bot1(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
+            await Bot1(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
         except:
             try:
                 print("Got String Session 01!")
@@ -200,7 +200,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 01!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot1 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot1.start()
@@ -214,8 +214,8 @@ async def Unravel Bots():
             await Bot2.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot2(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot2(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot2(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot2(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot2(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 02!")
@@ -226,7 +226,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 02!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot2 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot2.start()
@@ -240,8 +240,8 @@ async def Unravel Bots():
             await Bot3.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot3(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot3(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot3(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot3(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot3(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 03!")
@@ -252,7 +252,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 03!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot3 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot3.start()
@@ -266,8 +266,8 @@ async def Unravel Bots():
             await Bot4.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot4(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot4(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot4(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot4(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot4(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 04!")
@@ -278,7 +278,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 04!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot4 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot4.start()
@@ -292,8 +292,8 @@ async def Unravel Bots():
             await Bot5.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot5(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot5(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot5(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot5(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot5(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 05!")
@@ -304,7 +304,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 05!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot5 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot5.start()
@@ -318,8 +318,8 @@ async def Unravel Bots():
             await Bot6.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot6(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot6(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot6(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot6(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot6(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 06!")
@@ -330,7 +330,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 06!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot6 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot6.start()
@@ -344,8 +344,8 @@ async def Unravel Bots():
             await Bot7.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot7(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot7(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot7(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot7(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot7(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 07!")
@@ -356,7 +356,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 07!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot7 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot7.start()
@@ -370,8 +370,8 @@ async def Unravel Bots():
             await Bot8.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot8(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot8(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot8(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot8(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot8(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 08!")
@@ -382,7 +382,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 08!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot8 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot8.start()
@@ -396,8 +396,8 @@ async def Unravel Bots():
             await Bot9.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot9(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot9(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot9(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot9(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot9(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 09!")
@@ -408,7 +408,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 09!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot9 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot9.start()
@@ -422,8 +422,8 @@ async def Unravel Bots():
             await Bot10.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot10(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot10(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot10(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot10(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot10(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 10!")
@@ -434,7 +434,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 10!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot10 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot10.start()
@@ -448,8 +448,8 @@ async def Unravel Bots():
             await Bot11.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot11(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot11(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot11(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot11(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot11(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 11!")
@@ -460,7 +460,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 11!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot11 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot11.start()
@@ -474,8 +474,8 @@ async def Unravel Bots():
             await Bot12.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot12(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot12(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot12(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot12(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot12(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 12!")
@@ -486,7 +486,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 12!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot12 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot12.start()
@@ -500,8 +500,8 @@ async def Unravel Bots():
             await Bot13.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot13(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot13(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot13(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot13(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot13(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 13!")
@@ -512,7 +512,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 13!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot13 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot13.start()
@@ -526,8 +526,8 @@ async def Unravel Bots():
             await Bot14.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot14(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot14(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot14(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot14(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot14(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 14!")
@@ -538,7 +538,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 14!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot14 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot14.start()
@@ -552,8 +552,8 @@ async def Unravel Bots():
             await Bot15.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot15(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot15(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot15(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot15(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot15(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 15!")
@@ -564,7 +564,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 15!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot15 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot15.start()
@@ -578,8 +578,8 @@ async def Unravel Bots():
             await Bot16.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot16(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot16(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot16(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot16(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot16(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 16!")
@@ -590,7 +590,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 16!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot16 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot16.start()
@@ -604,8 +604,8 @@ async def Unravel Bots():
             await Bot17.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot17(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot17(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot17(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot17(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot17(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 17!")
@@ -616,7 +616,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 17!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot17 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot17.start()
@@ -630,8 +630,8 @@ async def Unravel Bots():
             await Bot18.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot18(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot18(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot18(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot18(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot18(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 18!")
@@ -642,7 +642,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 18!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot18 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot18.start()
@@ -656,8 +656,8 @@ async def Unravel Bots():
             await Bot19.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot19(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot19(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot19(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot19(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot19(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 19!")
@@ -668,7 +668,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 19!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot19 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot19.start()
@@ -682,8 +682,8 @@ async def Unravel Bots():
             await Bot20.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot20(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot20(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot20(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot20(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot20(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 20!")
@@ -694,7 +694,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 20!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot20 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot20.start()
@@ -708,8 +708,8 @@ async def Unravel Bots():
             await Bot21.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot21(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot21(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot21(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot21(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot21(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 21!")
@@ -720,7 +720,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 21!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot21 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot21.start()
@@ -734,8 +734,8 @@ async def Unravel Bots():
             await Bot22.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot22(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot22(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot22(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot22(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot22(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 22!")
@@ -746,7 +746,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 22!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot22 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot22.start()
@@ -760,8 +760,8 @@ async def Unravel Bots():
             await Bot23.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot23(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot23(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot23(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot23(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot23(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 23!")
@@ -772,7 +772,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 23!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot23 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot23.start()
@@ -786,8 +786,8 @@ async def Unravel Bots():
             await Bot24.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot24(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot24(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot24(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot24(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot24(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 24!")
@@ -798,7 +798,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 24!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot24 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot24.start()
@@ -812,8 +812,8 @@ async def Unravel Bots():
             await Bot25.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot25(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot25(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot25(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot25(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot25(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 25!")
@@ -824,7 +824,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 25!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot25 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot25.start()
@@ -838,8 +838,8 @@ async def Unravel Bots():
             await Bot26.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot26(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot26(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot26(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot26(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot26(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 26!")
@@ -850,7 +850,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 26!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot26 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot26.start()
@@ -864,8 +864,8 @@ async def Unravel Bots():
             await Bot27.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot27(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot27(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot27(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot27(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot27(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 27!")
@@ -876,7 +876,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 27!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot27 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot27.start()
@@ -890,8 +890,8 @@ async def Unravel Bots():
             await Bot28.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot28(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot28(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot28(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot28(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot28(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 28!")
@@ -902,7 +902,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 28!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot28 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot28.start()
@@ -916,8 +916,8 @@ async def Unravel Bots():
             await Bot29.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot29(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot29(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot29(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot29(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot29(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 29!")
@@ -928,7 +928,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 29!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot29 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot29.start()
@@ -942,8 +942,8 @@ async def Unravel Bots():
             await Bot30.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot30(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot30(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot30(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot30(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot30(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 30!")
@@ -954,7 +954,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 30!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot30 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot30.start()
@@ -968,8 +968,8 @@ async def Unravel Bots():
             await Bot31.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot31(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot31(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot31(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot31(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot31(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 31!")
@@ -980,7 +980,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 31!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot31 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot31.start()
@@ -994,8 +994,8 @@ async def Unravel Bots():
             await Bot32.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot32(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot32(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot32(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot32(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot32(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 32!")
@@ -1006,7 +1006,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 32!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot32 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot32.start()
@@ -1020,8 +1020,8 @@ async def Unravel Bots():
             await Bot33.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot33(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot33(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot33(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot33(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot33(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 33!")
@@ -1032,7 +1032,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 33!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot33 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot33.start()
@@ -1046,8 +1046,8 @@ async def Unravel Bots():
             await Bot34.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot34(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot34(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot34(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot34(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot34(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 34!")
@@ -1058,7 +1058,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 34!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot34 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot34.start()
@@ -1072,8 +1072,8 @@ async def Unravel Bots():
             await Bot35.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot35(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot35(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot35(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot35(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot35(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 35!")
@@ -1084,7 +1084,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 35!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot35 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot35.start()
@@ -1098,8 +1098,8 @@ async def Unravel Bots():
             await Bot36.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot36(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot36(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot36(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot36(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot36(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 36!")
@@ -1110,7 +1110,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 36!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot36 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot36.start()
@@ -1124,8 +1124,8 @@ async def Unravel Bots():
             await Bot37.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot37(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot37(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot37(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot37(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot37(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 37!")
@@ -1136,7 +1136,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 37!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot37 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot37.start()
@@ -1150,8 +1150,8 @@ async def Unravel Bots():
             await Bot38.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot38(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot38(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot38(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot38(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot38(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 38!")
@@ -1162,7 +1162,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 38!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot38 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot38.start()
@@ -1176,8 +1176,8 @@ async def Unravel Bots():
             await Bot39.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot39(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot39(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot39(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot39(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot39(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 39!")
@@ -1188,7 +1188,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 39!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot39 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot39.start()
@@ -1202,8 +1202,8 @@ async def Unravel Bots():
             await Bot40.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot40(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot40(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot40(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot40(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot40(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 40!")
@@ -1214,7 +1214,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 40!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot40 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot40.start()
@@ -1227,8 +1227,8 @@ async def Unravel Bots():
             await Bot41.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot41(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot41(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot41(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot41(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot41(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 41!")
@@ -1239,7 +1239,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 41!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot41 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot41.start()
@@ -1253,8 +1253,8 @@ async def Unravel Bots():
             await Bot42.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot42(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot42(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot42(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot42(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot42(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 42!")
@@ -1265,7 +1265,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 42!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot42 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot42.start()
@@ -1279,8 +1279,8 @@ async def Unravel Bots():
             await Bot43.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot43(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot43(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot43(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot43(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot43(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 43!")
@@ -1291,7 +1291,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 43!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot43 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot43.start()
@@ -1305,8 +1305,8 @@ async def Unravel Bots():
             await Bot44.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot44(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot44(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot44(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot44(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot44(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 44!")
@@ -1317,7 +1317,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 44!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot44 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot44.start()
@@ -1331,8 +1331,8 @@ async def Unravel Bots():
             await Bot45.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot45(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot45(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot45(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot45(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot45(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 45!")
@@ -1343,7 +1343,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 45!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot45 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot45.start()
@@ -1357,8 +1357,8 @@ async def Unravel Bots():
             await Bot46.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot46(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot46(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot46(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot46(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot46(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 46!")
@@ -1369,7 +1369,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 46!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot46 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot46.start()
@@ -1383,8 +1383,8 @@ async def Unravel Bots():
             await Bot47.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot47(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot47(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot47(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot47(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot47(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 47!")
@@ -1395,7 +1395,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 47!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot47 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot47.start()
@@ -1409,8 +1409,8 @@ async def Unravel Bots():
             await Bot48.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot48(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot48(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot48(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot48(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot48(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 48!")
@@ -1421,7 +1421,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 48!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot48 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot48.start()
@@ -1435,8 +1435,8 @@ async def Unravel Bots():
             await Bot49.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot49(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot49(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot49(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot49(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot49(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 49!")
@@ -1447,7 +1447,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 49!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot49 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot49.start()
@@ -1461,8 +1461,8 @@ async def Unravel Bots():
             await Bot50.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot50(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot50(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot50(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot50(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot50(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 50!")
@@ -1473,7 +1473,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 50!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot50 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot50.start()
@@ -1486,8 +1486,8 @@ async def Unravel Bots():
             await Bot51.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot51(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot51(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot51(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot51(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot51(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 51!")
@@ -1498,7 +1498,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 51!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot51 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot51.start()
@@ -1512,8 +1512,8 @@ async def Unravel Bots():
             await Bot52.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot52(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot52(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot52(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot52(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot52(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 52!")
@@ -1524,7 +1524,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 52!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot52 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot52.start()
@@ -1538,8 +1538,8 @@ async def Unravel Bots():
             await Bot53.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot53(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot53(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot53(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot53(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot53(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 53!")
@@ -1550,7 +1550,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 53!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot53 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot53.start()
@@ -1564,8 +1564,8 @@ async def Unravel Bots():
             await Bot54.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot54(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot54(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot54(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot54(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot54(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 54!")
@@ -1576,7 +1576,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 54!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot54 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot54.start()
@@ -1590,8 +1590,8 @@ async def Unravel Bots():
             await Bot55.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot55(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot55(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot55(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot55(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot55(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 55!")
@@ -1602,7 +1602,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 55!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot55 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot55.start()
@@ -1616,8 +1616,8 @@ async def Unravel Bots():
             await Bot56.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot56(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot56(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot56(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot56(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot56(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 56!")
@@ -1628,7 +1628,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 56!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot56 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot56.start()
@@ -1642,8 +1642,8 @@ async def Unravel Bots():
             await Bot57.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot57(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot57(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot57(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot57(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot57(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 57!")
@@ -1654,7 +1654,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 57!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot57 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot57.start()
@@ -1668,8 +1668,8 @@ async def Unravel Bots():
             await Bot58.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot58(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot58(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot58(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot58(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot58(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 58!")
@@ -1680,7 +1680,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 58!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot58 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot58.start()
@@ -1694,8 +1694,8 @@ async def Unravel Bots():
             await Bot59.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot59(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot59(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot59(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot59(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot59(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 59!")
@@ -1706,7 +1706,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 59!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot59 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot59.start()
@@ -1720,8 +1720,8 @@ async def Unravel Bots():
             await Bot60.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot60(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot60(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot60(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot60(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot60(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 60!")
@@ -1732,7 +1732,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 60!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot60 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot60.start()
@@ -1745,8 +1745,8 @@ async def Unravel Bots():
             await Bot61.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot61(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot61(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot61(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot61(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot61(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 61!")
@@ -1757,7 +1757,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 61!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot61 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot61.start()
@@ -1771,8 +1771,8 @@ async def Unravel Bots():
             await Bot62.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot62(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot62(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot62(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot62(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot62(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 62!")
@@ -1783,7 +1783,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 62!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot62 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot62.start()
@@ -1797,8 +1797,8 @@ async def Unravel Bots():
             await Bot63.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot63(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot63(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot63(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot63(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot63(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 63!")
@@ -1809,7 +1809,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 63!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot63 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot63.start()
@@ -1823,8 +1823,8 @@ async def Unravel Bots():
             await Bot64.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot64(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot64(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot64(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot64(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot64(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 64!")
@@ -1835,7 +1835,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 64!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot64 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot64.start()
@@ -1849,8 +1849,8 @@ async def Unravel Bots():
             await Bot65.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot65(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot65(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot65(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot65(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot65(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 65!")
@@ -1861,7 +1861,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 65!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot65 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot65.start()
@@ -1875,8 +1875,8 @@ async def Unravel Bots():
             await Bot66.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot66(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot66(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot66(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot66(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot66(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 66!")
@@ -1887,7 +1887,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 66!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot66 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot66.start()
@@ -1901,8 +1901,8 @@ async def Unravel Bots():
             await Bot67.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot67(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot67(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot67(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot67(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot67(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 67!")
@@ -1913,7 +1913,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 67!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot67 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot67.start()
@@ -1927,8 +1927,8 @@ async def Unravel Bots():
             await Bot68.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot68(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot68(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot68(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot68(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot68(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 68!")
@@ -1939,7 +1939,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 68!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot68 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot68.start()
@@ -1953,8 +1953,8 @@ async def Unravel Bots():
             await Bot69.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot69(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot69(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot69(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot69(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot69(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 69!")
@@ -1965,7 +1965,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 69!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot69 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot69.start()
@@ -1979,8 +1979,8 @@ async def Unravel Bots():
             await Bot70.start()
             mat = "https://t.me/TheUnravelArmy"
             await Bot70(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot70(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot70(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot70(functions.channels.JoinChannelRequest(channel="@Unravel_Army"))
+            await Bot70(functions.channels.JoinChannelRequest(channel="@Unravel_Spam"))
         except:
             try:
                 print("Got String Session 10!")
@@ -1991,7 +1991,7 @@ async def Unravel Bots():
                 pass
     else:
         print("Didn't get String Session 70!")
-        sessn = "Gladiators"
+        sessn = "Unravel"
         Bot70 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot70.start()
@@ -2013,7 +2013,7 @@ loop.run_until_complete(Unravel Bots())
 # TeamArsenic_time
 # ifgif
 
-# @TeamGladiators
+# @TeamUnravel
 ##########################################################################################################################
 
 
@@ -2064,7 +2064,7 @@ async def ifgif(e, gif):
 # + Help Menu
 
 
-# @TeamGladiators
+# @TeamUnravel
 ##########################################################################################################################
 
 fellows = {}
@@ -2168,7 +2168,7 @@ async def bot_help(e):
 # packspam
 # dspamhang
 
-# @TeamGladiators
+# @TeamUnravel
 ##########################################################################################################################
 
 
@@ -2786,7 +2786,7 @@ async def spam(e):
 # ucurse
 # replycurse
 # dreplycurse
-# @TeamGladiators
+# @TheUnravelArmy
 ##########################################################################################################################
 
 @Bot1.on(events.NewMessage(incoming=True))
@@ -2955,7 +2955,7 @@ async def curse(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in crew:
-                text = f"I can't betray @TeamGladiators's crew."
+                text = f"I can't betray @TeamUnravel's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -2975,7 +2975,7 @@ async def curse(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in crew:
-                text = f"I can't betray @TeamGladiators's crew."
+                text = f"I can't betray @TeamUnravel's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3106,7 +3106,7 @@ async def curse(e):
                     emror += 1
             try:
                 if boom != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull multi curse on {boom} users for counter {counter}.**\nList of users who are gonna assaulted: {booms}")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamUnravel crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull multi curse on {boom} users for counter {counter}.**\nList of users who are gonna assaulted: {booms}")
                     await asyncio.sleep(3)
                     for i in range(counter):
                         curmse = random.choice(curses)
@@ -3115,7 +3115,7 @@ async def curse(e):
                             await e.client.send_message(e.chat_id, verse)
                             await asyncio.sleep(0.3)
                 elif demv != 0 or sumdo != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamUnravel crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
                 else:
                     await e.reply(usage)
             except Exception as g:
@@ -3237,7 +3237,7 @@ async def curse(e):
                     emror += 1
             try:
                 if boom != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull unlimited multi curse on {boom}.**\nList of users who are gonna assaulted: {booms}")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamUnravel crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull unlimited multi curse on {boom}.**\nList of users who are gonna assaulted: {booms}")
                     await asyncio.sleep(3)
                     xd = 0
                     while xd == 0:
@@ -3247,7 +3247,7 @@ async def curse(e):
                             await e.client.send_message(e.chat_id, verse)
                             await asyncio.sleep(0.3)
                 elif demv != 0 or sumdo != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamUnravel crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
                 else:
                     await e.reply(usage)
             except Exception as g:
@@ -3339,7 +3339,7 @@ async def ucurse(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in crew:
-                text = f"I can't betray @TeamGladiators's crew."
+                text = f"I can't betray @TeamUnravel's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3359,7 +3359,7 @@ async def ucurse(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in crew:
-                text = f"I can't betray @TeamGladiators's crew."
+                text = f"I can't betray @TeamUnravel's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3460,7 +3460,7 @@ async def replycurse(e):
             user_idd = a.id
             user_id = int(user_idd)
             if int(user_id) in crew:
-                text = f"I can't betray @TeamGladiators's crew."
+                text = f"I can't betray @TeamUnravel's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3479,7 +3479,7 @@ async def replycurse(e):
             user_idd = umser.id
             user_id = int(user_idd)
             if int(user_id) in crew:
-                text = f"I can't betray @TeamGladiators's crew."
+                text = f"I can't betray @TeamUnravel's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3580,7 +3580,7 @@ async def dreplycurse(e):
             user_idd = a.id
             user_id = int(user_idd)
             if int(user_id) in crew:
-                text = f"Never started reply and curse on @TeamGladiators's crew."
+                text = f"Never started reply and curse on @TeamUnravel's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 try:
@@ -3599,7 +3599,7 @@ async def dreplycurse(e):
             user_id = int(user_idd)
             name = umser.first_name
             if int(user_id) in crew:
-                text = f"Never started reply and curse on @TeamGladiators's crew."
+                text = f"Never started reply and curse on @TeamUnravel's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 gey = fellows.get(user_id)
@@ -3616,7 +3616,7 @@ async def dreplycurse(e):
 # ping
 # alive
 
-# @TeamGladiators
+# @TheUnravelArmy
 ##########################################################################################################################
 
 
@@ -3794,7 +3794,7 @@ async def alive(e):
 # usage
 
 
-# @TeamGladiators
+# @TheUnravelArmy
 ##########################################################################################################################
 
 
@@ -3888,7 +3888,7 @@ async def leave(e):
             except Exception as eror:
                 await e.edit(str(eror))
     elif e.sender_id in SUDO_USERS:
-        await e.reply("You ain't a Dev User bish!")
+        await e.reply("You Are Not a DEV sar!")
 
 
 ##########################################################################################################################
@@ -3993,8 +3993,8 @@ async def _(dyno):
         "logs.txt",
         reply_to=dyno.id,
         force_document=True,
-        thumb="resources/Gladiators.jpeg",
-        caption="@Gladiators_Projects spammerbots logs.",
+        thumb="resources/Unravel.jpeg",
+        caption="@TheUnravelArmy MultiSpam Bot.",
     )
 
     await asyncio.sleep(5)
@@ -4146,7 +4146,7 @@ async def dyno_usage(dyno):
 
 
 
-# @TeamGladiators
+# @TeamUnravel
 ##########################################################################################################################
 
 
@@ -4241,7 +4241,7 @@ async def alive(e):
 #BIO
 
 
-# @TeamGladiators
+# @TeamUnravel
 ##########################################################################################################################
 
 @Bot1.on(events.NewMessage(incoming=True, pattern=r"\%sbio(?: |$)(.*)" % hn))
@@ -4771,10 +4771,7 @@ async def _(e):
 async def _(e):
     if e.sender_id in DEV_USERS:
         reboot_text = """
-╔══╗─────╔╦╗──╔╗────╔═╗
-║╔═╬╗╔═╗╔╝╠╬═╗║╚╦═╦╦╣═╣
-║╚╗║╚╣╬╚╣╬║║╬╚╣╔╣╬║╔╬═║
-╚══╩═╩══╩═╩╩══╩═╩═╩╝╚═╝
+TheUnravel MultiSpam Bot
 
 Rᴇʙᴏᴏᴛɪɴɢ ʙᴏᴛ...
 
@@ -5061,7 +5058,7 @@ Wᴀɪᴛ ғᴏʀ ᴀ ᴡʜɪʟᴇ ᴛᴏ ᴜsᴇ ɪᴛ ᴀɢᴀɪɴ.
             Bot70.disconnect()
         except Exception as e:
             pass
-        args = [sys.executable, "-m", "Gladiators.py"]
+        args = [sys.executable, "-m", "Unravel.py"]
         os.execl(sys.executable, *args)
         quit()
 
