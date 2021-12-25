@@ -3611,7 +3611,7 @@ async def dreplycurse(e):
             await e.reply(usage)
 
 ##########################################################################################################################
-# All commands of sudo category
+# All commands of sudo category:
 
 # ping
 # alive
